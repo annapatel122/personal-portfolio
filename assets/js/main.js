@@ -25,7 +25,7 @@
 			}, 100);
 		});
 
-	// Dropdowns.
+	// Homes.
 		$('#nav > ul').dropotron({
 			mode: 'fade',
 			speed: 300,
